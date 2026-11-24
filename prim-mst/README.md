@@ -18,8 +18,4 @@ The input format expected by the program is the number of vertices and edges, fo
 - [Prim's MST concept drawing — 02:54](https://youtu.be/5f4IYZVPZi8?t=174)
 - [Brief source overview — 08:49](https://youtu.be/5f4IYZVPZi8?t=529)
 
-The recording is currently Private on YouTube. Its recorded terminal attempt did not complete successfully because the expected input file was missing. This video is preserved as a development record, not presented as a successful live demonstration.
-
-## Review note
-
-The implementation should be checked for disconnected graphs before being relied on as a general MST routine. The current source file is preserved unchanged in this archive.
+Its recorded terminal attempt did not complete successfully because the expected input file was missing. This video is preserved as a development record, not presented as a successful live demonstration.

@@ -17,6 +17,8 @@ The input format expected by the program is the number of vertices and edges, fo
 
 - [Prim's MST concept drawing — 02:54](https://youtu.be/5f4IYZVPZi8?t=174)
 - [Source overview — 08:49](https://youtu.be/5f4IYZVPZi8?t=529)
-- [Successful compilation and execution — April Reset Day 10](https://youtu.be/rFx5ZxOR8CM)
+- [Successful compilation — 13:08](https://youtu.be/rFx5ZxOR8CM?t=788)
+- [Graph input — 13:15](https://youtu.be/rFx5ZxOR8CM?t=795)
+- [MST output: 19 — 13:32](https://youtu.be/rFx5ZxOR8CM?t=812)
 
-The later recording demonstrates successful compilation and execution using a four-vertex, five-edge weighted graph, producing an MST cost of 19.
+The later recording demonstrates successful execution using a connected four-vertex, five-edge weighted graph, producing the minimum spanning tree cost of 19.

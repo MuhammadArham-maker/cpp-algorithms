@@ -29,7 +29,7 @@ On Windows, the generated executable can be run with its `.exe` extension. Prim'
 The recordings document the implementation process, code walkthroughs and selected execution demonstrations.
 
 - **Dijkstra:** [Source walkthrough — 17:39](https://youtu.be/MdPx0j1Wp4U?t=1059) · [Compile and run — 23:41](https://youtu.be/MdPx0j1Wp4U?t=1421)
-- **Prim's MST:** [Concept drawing — 02:54](https://youtu.be/5f4IYZVPZi8?t=174) · [Source overview — 08:49](https://youtu.be/5f4IYZVPZi8?t=529). The recorded terminal attempt is incomplete and is not presented as a successful run.
+- **Prim's MST:** [Concept drawing — 02:54](https://youtu.be/5f4IYZVPZi8?t=174) · [Source overview — 08:49](https://youtu.be/5f4IYZVPZi8?t=529) · [Successful compilation and execution — 13:08](https://youtu.be/rFx5ZxOR8CM?t=788)
 - **Hex game:** [BFS and board code walkthrough — 11:49](https://youtu.be/eObpp_g4Wsk?t=709) · [Board initialization — 15:48](https://youtu.be/eObpp_g4Wsk?t=948). This recording covers the earlier two-player version, before the AI extension.
 - **Monte Carlo Hex AI:** [Random-playout concept — 04:50](https://youtu.be/wBlbxEEEU1w?t=290) · [Source walkthrough — 12:37](https://youtu.be/wBlbxEEEU1w?t=757) · [Compile and gameplay demonstration — 17:51](https://youtu.be/wBlbxEEEU1w?t=1071)
 

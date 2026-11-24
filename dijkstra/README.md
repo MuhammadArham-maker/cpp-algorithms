@@ -21,8 +21,6 @@ On Windows, run `dijkstra.exe`.
 - [Recorded compile/run — 23:41](https://youtu.be/MdPx0j1Wp4U?t=1421)
 - [Hand-drawn algorithm trace — 02:32](https://youtu.be/MdPx0j1Wp4U?t=152)
 
-The recording is currently Private on YouTube.
-
 ## Review note
 
 The current source constructs a new `Graph` inside each simulation iteration, and each graph's random engine is default-seeded. As a result, iterations may repeat the same generated graph rather than sample independently. Review and correct the random-engine seeding before interpreting the experiment as 1,000 unique graph trials. The source file is preserved unchanged in this archive.

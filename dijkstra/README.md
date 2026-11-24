@@ -4,7 +4,7 @@
 
 This program defines a weighted undirected graph using an adjacency matrix, generates edges according to a specified density, and applies Dijkstra's algorithm from a selected start vertex. A `std::priority_queue` configured as a min-priority queue is used to process the next lowest tentative distance.
 
-The program then runs a graph experiment for edge densities `0.2` and `0.4`, accumulating reachable shortest-path distances from vertex `0` across generated graphs.
+The program runs a graph experiment for edge densities 0.2 and 0.4, collecting reachable shortest-path distances from vertex 0 over repeated simulation iterations. The random-engine initialization currently limits the independence of these trials, as explained below.
 
 ## Build and run
 

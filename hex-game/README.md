@@ -18,4 +18,4 @@ On Windows, run `hex-game.exe`.
 - [BFS and `HexBoard` code walkthrough — 11:49](https://youtu.be/eObpp_g4Wsk?t=709)
 - [Compilation and board initialization — 15:48](https://youtu.be/eObpp_g4Wsk?t=948)
 
-The recording is currently Private on YouTube. It documents an earlier two-player milestone; the recorded gameplay test is limited and is superseded by the later Monte Carlo AI project in this archive.
+The recording documents an earlier two-player milestone; the recorded gameplay test is limited and is superseded by the later Monte Carlo AI project in this archive.

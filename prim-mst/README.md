@@ -13,9 +13,10 @@ g++ -std=c++17 MST.cpp -o prim-mst
 
 The input format expected by the program is the number of vertices and edges, followed by one weighted edge per line. Check the source's `main()` for the exact input order before preparing `graph.txt`.
 
-## Walkthrough archive
+## Walkthrough
 
 - [Prim's MST concept drawing — 02:54](https://youtu.be/5f4IYZVPZi8?t=174)
-- [Brief source overview — 08:49](https://youtu.be/5f4IYZVPZi8?t=529)
+- [Source overview — 08:49](https://youtu.be/5f4IYZVPZi8?t=529)
+- [Successful compilation and execution — April Reset Day 10](https://youtu.be/rFx5ZxOR8CM)
 
-Its recorded terminal attempt did not complete successfully because the expected input file was missing. This video is preserved as a development record, not presented as a successful live demonstration.
+The later recording demonstrates successful compilation and execution using a four-vertex, five-edge weighted graph, producing an MST cost of 19.

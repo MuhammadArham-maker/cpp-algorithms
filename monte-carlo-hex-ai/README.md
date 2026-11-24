@@ -21,4 +21,4 @@ On Windows, run `monte-carlo-hex-ai.exe`.
 - [Source walkthrough — 12:37](https://youtu.be/wBlbxEEEU1w?t=757)
 - [Compilation and gameplay demonstration — 17:51](https://youtu.be/wBlbxEEEU1w?t=1071)
 
-The recording is currently Private on YouTube. It includes a source walkthrough and a recorded human-versus-AI match. This is a random-playout evaluator; it is not Monte Carlo Tree Search (MCTS).
+The recording includes a source walkthrough and a recorded human-versus-AI match. This is a random-playout evaluator; not Monte Carlo Tree Search (MCTS).

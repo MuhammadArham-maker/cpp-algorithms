@@ -1,6 +1,6 @@
 # C++ Algorithms & Computational Projects
 
-This repository contains four standalone C++ implementations developed during the **Coding for Everyone: C & C++ Specialization** (2026). Each program explores a different graph or game-related problem and can be compiled independently.
+This repository contains four standalone C++ implementations exploring graph algorithms and computational game problems. Developed through hands-on C++ coursework and practice in 2026, these programs demonstrate different approaches to graph traversal, shortest-path computation, minimum spanning trees and simulation-based game AI.
 
 ## Projects
 
